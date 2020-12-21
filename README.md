@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![image](https://img.shields.io/badge/Abishek%20ram-Senior%20software%20developer-100000)
-
-#### Working as Senior software engineer in SoftwareAG
-
+I am ![image](https://img.shields.io/badge/Abishek%20ram-Senior%20software%20developer-100000)
 
   
 Skills:
